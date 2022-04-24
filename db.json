@@ -20,29 +20,30 @@
   "reviewed": [
     {
       "id": 8656170005202,
+      "photoUrl": "https://cdn.sanity.io/images/9k7xk9g9/production/8824226c4dc9fb2e64dc0238f5a2ef8afa49e43b-647x647.png?w=1051&q=80&fit=crop&auto=format",
       "ratingAVG": 4.6,
       "positive": 9,
       "negative": 5,
       "reviews": [
         {
           "id": 1,
-          "fullName": "John Armstrong",
-          "reviewed": "Bon Aqua",
-          "review": "“As this website sells items which might be missing parts, they describe this on the website but fail to show this on your account and emails when something goes...”",
+          "fullName": "Пүрэвсүрэн",
+          "reviewed": "CU",
+          "review": "“Өдөр бүрийн хэрэглээнүүдийн нэг болж чадсан сайн чанарын бүтээгдэхүүн билээ. Цаашдаа ч гэсэн ”",
           "rating": 5
         },
         {
           "id": 2,
-          "fullName": "John Armstrong",
-          "reviewed": "Bon Aqua",
-          "review": "“Beautiful, easy, fast service, grandparents loved them, definately recommended and will use again, Thankyou so much A+++++”",
-          "rating": 3
+          "fullName": "Ганаа Ганаа",
+          "reviewed": "ORGIL SUPER MARKET",
+          "review": "Дажгүй санагддаг, ам цангаж байхад хамгийн үргэжл уудышдээ",
+          "rating": 4
         },
         {
           "id": 3,
-          "fullName": "Rita Maria Ballnus",
-          "reviewed": "DHL",
-          "review": "“As this website sells items which might be missing parts, they describe this on the website but fail to show this on your account and emails when something goes...”",
+          "fullName": "Дорж",
+          "reviewed": "CU",
+          "review": "Карантнаасаа ус авч байхад ийм бэлэн савалгаатай усаар яадаг юм. Савалгаан ч хуванцар хог шүү дээ.",
           "rating": 2
         }
       ]
@@ -51,59 +52,61 @@
   "scanned": [
     {
       "id": 8656170005035,
-      "ratingAVG": 3.6,
-      "positive": 8,
-      "negative": 19,
+      "photoUrl": "https://cdn.sanity.io/images/9k7xk9g9/production/1987e01d2d21abd82950b70979a3668ff94ecc83-522x522.jpg?w=1051&q=80&fit=crop&auto=format",
+      "ratingAVG": 4,
+      "positive": 14,
+      "negative": 9,
       "reviews": [
         {
           "id": 1,
-          "fullName": "John Armstrong",
-          "reviewed": "Lebara Mobile (UK)",
-          "review": "“As this website sells items which might be missing parts, they describe this on the website but fail to show this on your account and emails when something goes...”",
-          "rating": 5
+          "fullName": "Төөгөө",
+          "reviewed": "CU",
+          "review": "Дэлхийн бараг бүх хүний л хэрэглээшдээ өдөр бүр биш ч байнга л авч уудагдаа",
+          "rating": 4
         },
         {
           "id": 2,
-          "fullName": "John Armstrong",
-          "reviewed": "Lebara Mobile (UK)",
-          "review": "“Beautiful, easy, fast service, grandparents loved them, definately recommended and will use again, Thankyou so much A+++++”",
-          "rating": 3
+          "fullName": "Чинба",
+          "reviewed": "CU",
+          "review": "байнга авч уудагөө нээх муудсан юм алгал байна ерөн л байнаг хэрэглэдэгшдээ",
+          "rating": 4
         },
         {
           "id": 3,
-          "fullName": "Rita Maria Ballnus",
-          "reviewed": "DHL",
-          "review": "“As this website sells items which might be missing parts, they describe this on the website but fail to show this on your account and emails when something goes...”",
+          "fullName": "Туяа",
+          "reviewed": "CU",
+          "review": "Манай хүүхдүүд л их авч уугаад байдгийн химийн хор ихтэй болхоор би бол уудаггүйшдээ",
           "rating": 2
         }
       ]
     },
     {
-      "id": 8654000480557,
-      "ratingAVG": 3,
-      "positive": 10,
-      "negative": 6,
+      "id": 5410076352623,
+      "photoUrl": "https://cdn.sanity.io/images/9k7xk9g9/production/4b1780a02e50fc5d8976214b31f1c6253b341880-640x640.jpg?w=1051&q=80&fit=crop&auto=format",
+      "ratingAVG": 4,
+      "positive": 5,
+      "negative": 2,
       "reviews": [
         {
           "id": 1,
-          "fullName": "John Armstrong",
-          "reviewed": "Lebara Mobile (UK)",
-          "review": "“As this website sells items which might be missing parts, they describe this on the website but fail to show this on your account and emails when something goes...”",
+          "fullName": "Болороо",
+          "reviewed": "ORGIL",
+          "review": "Корона эдэр гээд гарч байхад их л хэрэглэсэн одоо өөр савангаар угаахаар гар цэвэрхэн болоогүй юм шиг санагдаад байдаг болцон байналээ хаха",
           "rating": 5
         },
         {
           "id": 2,
-          "fullName": "John Armstrong",
-          "reviewed": "Lebara Mobile (UK)",
-          "review": "“Beautiful, easy, fast service, grandparents loved them, definately recommended and will use again, Thankyou so much A+++++”",
-          "rating": 3
+          "fullName": "Дугараа",
+          "reviewed": "ORGIL",
+          "review": "гарын савангуудаасаа хамгийн гаагүйн л гэж боддийшдээ гэхдээ заримдаа арьс таталдаад байгаа юм шиг санагдаад байдиймаа",
+          "rating": 4
         },
         {
           "id": 3,
-          "fullName": "Rita Maria Ballnus",
-          "reviewed": "DHL",
-          "review": "“As this website sells items which might be missing parts, they describe this on the website but fail to show this on your account and emails when something goes...”",
-          "rating": 2
+          "fullName": "Номио",
+          "reviewed": "ORGIL",
+          "review": "Өөр саван нээх хэрэглэдэггүйдээ тэгээд байнага л хэрэглэдэг сайншдээ",
+          "rating": 5
         }
       ]
     }
@@ -111,146 +114,150 @@
   "reviews": [
     {
       "id": 8656170005202,
+      "photoUrl": "https://cdn.sanity.io/images/9k7xk9g9/production/8824226c4dc9fb2e64dc0238f5a2ef8afa49e43b-647x647.png?w=1051&q=80&fit=crop&auto=format",
       "ratingAVG": 4.6,
       "positive": 9,
       "negative": 5,
       "reviews": [
         {
           "id": 1,
-          "fullName": "John Armstrong",
-          "reviewed": "Bon Aqua",
-          "review": "“As this website sells items which might be missing parts, they describe this on the website but fail to show this on your account and emails when something goes...”",
+          "fullName": "Пүрэвсүрэн",
+          "reviewed": "CU",
+          "review": "“Өдөр бүрийн хэрэглээнүүдийн нэг болж чадсан сайн чанарын бүтээгдэхүүн билээ. Цаашдаа ч гэсэн ”",
           "rating": 5
         },
         {
           "id": 2,
-          "fullName": "John Armstrong",
-          "reviewed": "Bon Aqua",
-          "review": "“Beautiful, easy, fast service, grandparents loved them, definately recommended and will use again, Thankyou so much A+++++”",
-          "rating": 3
+          "fullName": "Ганаа Ганаа",
+          "reviewed": "ORGIL SUPER MARKET",
+          "review": "Дажгүй санагддаг, ам цангаж байхад хамгийн үргэжл уудышдээ",
+          "rating": 4
         },
         {
           "id": 3,
-          "fullName": "Rita Maria Ballnus",
-          "reviewed": "DHL",
-          "review": "“As this website sells items which might be missing parts, they describe this on the website but fail to show this on your account and emails when something goes...”",
+          "fullName": "Дорж",
+          "reviewed": "CU",
+          "review": "Карантнаасаа ус авч байхад ийм бэлэн савалгаатай усаар яадаг юм. Савалгаан ч хуванцар хог шүү дээ.",
           "rating": 2
         }
       ]
     },
     {
-      "id": 8654000480557,
-      "ratingAVG": 3,
-      "positive": 10,
-      "negative": 6,
+      "id": 9789919968311,
+      "photoUrl": "https://cdn.sanity.io/images/9k7xk9g9/production/4a21b99c9dde89ba57a0a274cbcdf45b4ba22a55-228x200.png?w=1051&q=80&fit=crop&auto=format",
+      "ratingAVG": 5,
+      "positive": 20,
+      "negative": 2,
       "reviews": [
         {
           "id": 1,
-          "fullName": "John Armstrong",
-          "reviewed": "Lebara Mobile (UK)",
-          "review": "“As this website sells items which might be missing parts, they describe this on the website but fail to show this on your account and emails when something goes...”",
+          "fullName": "Тэмка",
+          "reviewed": "internom",
+          "review": "Залуучууд бидний зайлшгүй унших номнуудын нэг санагдсан.",
           "rating": 5
         },
         {
           "id": 2,
-          "fullName": "John Armstrong",
-          "reviewed": "Lebara Mobile (UK)",
-          "review": "“Beautiful, easy, fast service, grandparents loved them, definately recommended and will use again, Thankyou so much A+++++”",
-          "rating": 3
+          "fullName": "Номуун",
+          "reviewed": "internom",
+          "review": "Гайхалтай ном. Миний хувьд амьралын минь бас нэг шинэ зорилго тавиж тууштай зүтгэх тулгуур болж өгсөөн",
+          "rating": 5
         },
         {
           "id": 3,
-          "fullName": "Rita Maria Ballnus",
-          "reviewed": "DHL",
-          "review": "“As this website sells items which might be missing parts, they describe this on the website but fail to show this on your account and emails when something goes...”",
-          "rating": 2
+          "fullName": "Тэргэл",
+          "reviewed": "Azkhur",
+          "review": "Зүгээр л уншаад үз өөр яриад байх юм байхгүй. Унш тэгээд ойлгоно.",
+          "rating": 5
         }
       ]
     },
     {
       "id": 8656170005035,
-      "ratingAVG": 3.6,
-      "positive": 8,
-      "negative": 19,
+      "photoUrl": "https://cdn.sanity.io/images/9k7xk9g9/production/1987e01d2d21abd82950b70979a3668ff94ecc83-522x522.jpg?w=1051&q=80&fit=crop&auto=format",
+      "ratingAVG": 4,
+      "positive": 14,
+      "negative": 9,
       "reviews": [
         {
           "id": 1,
-          "fullName": "John Armstrong",
-          "reviewed": "Lebara Mobile (UK)",
-          "review": "“As this website sells items which might be missing parts, they describe this on the website but fail to show this on your account and emails when something goes...”",
-          "rating": 5
+          "fullName": "Төөгөө",
+          "reviewed": "CU",
+          "review": "Дэлхийн бараг бүх хүний л хэрэглээшдээ өдөр бүр биш ч байнга л авч уудагдаа",
+          "rating": 4
         },
         {
           "id": 2,
-          "fullName": "John Armstrong",
-          "reviewed": "Lebara Mobile (UK)",
-          "review": "“Beautiful, easy, fast service, grandparents loved them, definately recommended and will use again, Thankyou so much A+++++”",
-          "rating": 3
+          "fullName": "Чинба",
+          "reviewed": "CU",
+          "review": "байнга авч уудагөө нээх муудсан юм алгал байна ерөн л байнаг хэрэглэдэгшдээ",
+          "rating": 4
         },
         {
           "id": 3,
-          "fullName": "Rita Maria Ballnus",
-          "reviewed": "DHL",
-          "review": "“As this website sells items which might be missing parts, they describe this on the website but fail to show this on your account and emails when something goes...”",
+          "fullName": "Туяа",
+          "reviewed": "CU",
+          "review": "Манай хүүхдүүд л их авч уугаад байдгийн химийн хор ихтэй болхоор би бол уудаггүйшдээ",
           "rating": 2
         }
       ]
     },
     {
       "id": 5999860634430,
-      "ratingAVG": 3.6,
-      "positive": 8,
-      "negative": 19,
+      "ratingAVG": 4,
+      "positive": 5,
+      "negative": 2,
       "reviews": [
         {
           "id": 1,
-          "fullName": "Ууганбаяр Дагвацэрэн",
-          "reviewed": "Zochil Shop",
-          "review": "Амт нь сонин юм",
+          "fullName": "Болороо",
+          "reviewed": "ORGIL",
+          "review": "Корона эдэр гээд гарч байхад их л хэрэглэсэн одоо өөр савангаар угаахаар гар цэвэрхэн болоогүй юм шиг санагдаад байдаг болцон байналээ хаха",
           "rating": 5
         },
         {
           "id": 2,
-          "fullName": "Чинбат Аваажаргал",
-          "reviewed": "CU App",
-          "review": "Маш их таалагдлаа.",
-          "rating": 3
+          "fullName": "Дугараа",
+          "reviewed": "ORGIL",
+          "review": "гарын савангуудаасаа хамгийн гаагүйн л гэж боддийшдээ гэхдээ заримдаа арьс таталдаад байгаа юм шиг санагдаад байдиймаа",
+          "rating": 4
         },
         {
           "id": 3,
-          "fullName": "Марал",
-          "reviewed": "DHL",
-          "review": "Эрч хүч сэргээсэн сайхан ундаа байна.",
-          "rating": 2
+          "fullName": "Номио",
+          "reviewed": "ORGIL",
+          "review": "Өөр саван нээх хэрэглэдэггүйдээ тэгээд байнага л хэрэглэдэг сайншдээ",
+          "rating": 5
         }
       ]
     },
     {
       "id": 8801062641239,
-      "ratingAVG": 3.6,
-      "positive": 8,
-      "negative": 19,
+      "photoUrl": "https://cdn.sanity.io/images/9k7xk9g9/production/5a8c2cc1aba53a5946632d8ca3d640f3f1d57694-1616x2560.jpg?w=1051&q=80&fit=crop&auto=format",
+      "ratingAVG": 4,
+      "positive": 14,
+      "negative": 5,
       "reviews": [
         {
           "id": 1,
-          "fullName": "Ууганбаяр Дагвацэрэн",
-          "reviewed": "Zochil Shop",
-          "review": "Маш амттай юм.",
-          "rating": 5
+          "fullName": "Мишээл",
+          "reviewed": "CU",
+          "review": "Аймар нялуун амттай юм байналээ чихэрлэг юм нээх идэдгүй бол үнэн онцгүй ээ",
+          "rating": 2
         },
         {
           "id": 2,
-          "fullName": "Чинбат Аваажаргал",
-          "reviewed": "CU App",
-          "review": "Дахиад идмээр байна",
-          "rating": 3
+          "fullName": "Гэрэлт",
+          "reviewed": "GS25",
+          "review": "Гоёшдээ дандаа л авч иддэг олон төрөл байдагаас надаа бол цагаан шоколадтайн илүү их таалагддаг",
+          "rating": 5
         },
         {
           "id": 3,
-          "fullName": "Марал",
-          "reviewed": "DHL",
-          "review": "Бөөндөж зардаг газар байна уу. Залгаарай 99******",
-          "rating": 2
+          "fullName": "Тэлмэн",
+          "reviewed": "CU",
+          "review": "Жинхэнэ амттанд дурлагсад л идхээр зүйл шдээ гоё гэхээс өөр юу хэлхүү",
+          "rating": 5
         }
       ]
     }
