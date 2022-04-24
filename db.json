@@ -123,6 +123,64 @@
           "rating": 2
         }
       ]
+    },
+    {
+      "id": 5999860634430,
+      "ratingAVG": 3.6,
+      "positive": 8,
+      "negative": 19,
+      "reviews": [
+        {
+          "id": 1,
+          "fullName": "Ууганбаяр Дагвацэрэн",
+          "reviewed": "Zochil Shop",
+          "review": "Амт нь сонин юм",
+          "rating": 5
+        },
+        {
+          "id": 2,
+          "fullName": "Чинбат Аваажаргал",
+          "reviewed": "CU App",
+          "review": "Маш их таалагдлаа.",
+          "rating": 3
+        },
+        {
+          "id": 3,
+          "fullName": "Марал",
+          "reviewed": "DHL",
+          "review": "Эрч хүч сэргээсэн сайхан ундаа байна.",
+          "rating": 2
+        }
+      ]
+    },
+    {
+      "id": 8801062641239,
+      "ratingAVG": 3.6,
+      "positive": 8,
+      "negative": 19,
+      "reviews": [
+        {
+          "id": 1,
+          "fullName": "Ууганбаяр Дагвацэрэн",
+          "reviewed": "Zochil Shop",
+          "review": "Маш амттай юм.",
+          "rating": 5
+        },
+        {
+          "id": 2,
+          "fullName": "Чинбат Аваажаргал",
+          "reviewed": "CU App",
+          "review": "Дахиад идмээр байна",
+          "rating": 3
+        },
+        {
+          "id": 3,
+          "fullName": "Марал",
+          "reviewed": "DHL",
+          "review": "Бөөндөж зардаг газар байна уу. Залгаарай 99******",
+          "rating": 2
+        }
+      ]
     }
   ]
 }
